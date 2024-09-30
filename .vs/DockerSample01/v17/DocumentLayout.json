@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|solutionrelative:dockersample01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B23765CE-4F65-4AF2-8D25-EC8B70DF1A45}|docker-compose.dcproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B23765CE-4F65-4AF2-8D25-EC8B70DF1A45}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\dockersample01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|solutionrelative:dockersample01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\dockersample01\\dockerfile_manual||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|solutionrelative:dockersample01\\dockerfile_manual||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\dockersample01\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|solutionrelative:dockersample01\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B23765CE-4F65-4AF2-8D25-EC8B70DF1A45}|docker-compose.dcproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B23765CE-4F65-4AF2-8D25-EC8B70DF1A45}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D332D4DD-4BC5-4D9B-A814-52ACE40C1F25}|DockerSample01\\DockerSample01.csproj|d:\\bitbucketprojects\\service\\pocs\\dockersample01\\dockersample01\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,60 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
-              "RelativeDocumentMoniker": "DockerSample01\\appsettings.json",
-              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
-              "RelativeToolTip": "DockerSample01\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-30T03:39:02.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dockerfile_manual",
-              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
-              "RelativeDocumentMoniker": "DockerSample01\\dockerfile_manual",
-              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
-              "RelativeToolTip": "DockerSample01\\dockerfile_manual",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-30T03:38:56.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-09-30T03:33:15.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Dockerfile",
-              "RelativeDocumentMoniker": "DockerSample01\\Dockerfile",
-              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Dockerfile",
-              "RelativeToolTip": "DockerSample01\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-30T03:30:48.231Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -123,19 +59,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerSample01\\appsettings.json",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
+              "RelativeToolTip": "DockerSample01\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-30T03:31:22.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T03:39:02.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "dockerfile_manual",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
+              "RelativeDocumentMoniker": "DockerSample01\\dockerfile_manual",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
+              "RelativeToolTip": "DockerSample01\\dockerfile_manual",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T03:38:56.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Program.cs",
               "RelativeDocumentMoniker": "DockerSample01\\Program.cs",
@@ -153,14 +100,14 @@
               "RelativeDocumentMoniker": "DockerSample01\\Properties\\launchSettings.json",
               "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Properties\\launchSettings.json",
               "RelativeToolTip": "DockerSample01\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-27T08:18:15.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "EmployeeDtoForUpdate.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Models\\EmployeeDtoForUpdate.cs",
               "RelativeDocumentMoniker": "DockerSample01\\Models\\EmployeeDtoForUpdate.cs",
@@ -172,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Models\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "DockerSample01\\Models\\EmployeeDto.cs",
@@ -184,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "EmployeeRequestModelDto.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Models\\RequestModels\\EmployeeRequestModelDto.cs",
               "RelativeDocumentMoniker": "DockerSample01\\Models\\RequestModels\\EmployeeRequestModelDto.cs",
@@ -196,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "DockerSample01\\Controllers\\EmployeeController.cs",
@@ -208,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "EmployeeDataStore.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\EmployeeDataStore.cs",
               "RelativeDocumentMoniker": "DockerSample01\\EmployeeDataStore.cs",
@@ -220,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "DockerSample01.csproj",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
               "RelativeDocumentMoniker": "DockerSample01\\DockerSample01.csproj",

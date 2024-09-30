@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj": {}
+    "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj": {}
   },
   "projects": {
-    "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj": {
+    "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
+        "projectUniqueName": "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
         "projectName": "DockerSample01",
-        "projectPath": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
+        "projectPath": "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
         "packagesPath": "C:\\Users\\sagar.monga\\.nuget\\packages\\",
-        "outputPath": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\obj\\",
+        "outputPath": "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
