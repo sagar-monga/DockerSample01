@@ -1,0 +1,17 @@
+# Use .net 6 image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+
+# move to app working directory
+WORKDIR /app
+
+# Optimisation so that next steps run only when there are changes in csproj files.
+COPY *.csproj ./
+
+# restore the dependencies
+RUN dotnet restore
+
+# Copy application code (Syntax is COPY <source> <destination>)
+COPY . .
+
+RUN dotnet publish -c Release -o out
+
