@@ -20,6 +20,7 @@ D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.csproj.CoreCompileInputs.cache
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.MvcApplicationPartsAssemblyInfo.cs
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.MvcApplicationPartsAssemblyInfo.cache
+D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.sourcelink.json
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\staticwebassets.build.json
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\staticwebassets.development.json
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\staticwebassets\msbuild.DockerSample01.Microsoft.AspNetCore.StaticWebAssets.props

@@ -7,6 +7,6 @@ services:
       context: .
       dockerfile: DockerSample01/Dockerfile
     ports:
-      - "7002:8080" # Maps port 8080 inside the container to 7002 on the host
+      - "7002:7002" # Maps port 8080 inside the container to 7002 on the host
     environment:
-      - ASPNETCORE_URLS=http://+:8080
+      - ASPNETCORE_URLS=http://+:7002
