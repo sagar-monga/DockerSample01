@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kEftfgfNgwg=",
+  "dgSpecHash": "MCCDe56MmyY=",
   "success": true,
-  "projectFilePath": "d:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
+  "projectFilePath": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\DockerSample01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sagar.monga\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.8\\microsoft.aspnetcore.jsonpatch.8.0.8.nupkg.sha512",
     "C:\\Users\\sagar.monga\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.33\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.33.nupkg.sha512",

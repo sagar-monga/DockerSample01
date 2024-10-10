@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  dockersample01:
+    image: ${DOCKER_REGISTRY-}dockersample01
+    build:
+      context: .
+      dockerfile: DockerSample01/Dockerfile
+    ports:
+      - "7002:7002" # Maps port 8080 inside the container to 7002 on the host
+    environment:
+      - ASPNETCORE_URLS=http://+:7002
