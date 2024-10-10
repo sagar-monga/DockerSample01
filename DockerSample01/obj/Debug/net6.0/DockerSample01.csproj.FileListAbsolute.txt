@@ -35,3 +35,4 @@ D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.pdb
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.genruntimeconfig.cache
 D:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\ref\DockerSample01.dll
+d:\BitbucketProjects\service\pocs\DockerSample01\DockerSample01\obj\Debug\net6.0\DockerSample01.sourcelink.json

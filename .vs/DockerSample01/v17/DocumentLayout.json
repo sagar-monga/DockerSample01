@@ -33,7 +33,12 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "EmployeeDataStore.cs",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\EmployeeDataStore.cs",
@@ -44,6 +49,29 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T06:33:24.142Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerSample01\\appsettings.json",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\appsettings.json",
+              "RelativeToolTip": "DockerSample01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T03:39:02.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dockerfile_manual",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
+              "RelativeDocumentMoniker": "DockerSample01\\dockerfile_manual",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\dockerfile_manual",
+              "RelativeToolTip": "DockerSample01\\dockerfile_manual",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T03:38:56.739Z"
+>>>>>>> main
             },
             {
               "$type": "Document",
@@ -55,16 +83,33 @@
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+<<<<<<< HEAD
               "WhenOpened": "2024-09-30T06:32:49.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+=======
+              "WhenOpened": "2024-09-30T03:33:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerSample01\\Dockerfile",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\DockerSample01\\Dockerfile",
+              "RelativeToolTip": "DockerSample01\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T03:30:48.231Z"
+>>>>>>> main
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -74,6 +119,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-09-30T05:35:50.129Z",
               "EditorCaption": ""
+=======
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "D:\\BitbucketProjects\\service\\pocs\\DockerSample01\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T03:31:22.172Z"
+>>>>>>> main
             },
             {
               "$type": "Document",
